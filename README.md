@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dev-Enoch
 - 👀 I’m interested in website design
-- 🌱 I’m currently learning CSS, JavaScript 
+- 🌱 I’m currently learning frontend and backend stacks.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 07039990134-whatsapp, Gmail: ayanyiolaenoch155@gmail.com
 IG: enochayanyiola 
