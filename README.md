@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a front-end web developer who is passionate about creating visually attractive web pages and also responsive ones.<br>I'm open to learning and in for collaboration.<br><br>I'm proficient in HTML, BOOTSTRAP, CSS3, TAILWINDCSS.<br>
+I'm a front-end web developer who is passionate about creating visually attractive web pages and also responsive ones.<br>I'm open to learning and in for collaboration.<br><br>I'm proficient in HTML, BOOTSTRAP, CSS3, JAVASCRIPT, TAILWINDCSS.<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/dmc.brand.3) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayanyiolaenoch) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayanyiolaenoch) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ayanyiolaenoch) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Ayanyiolaenoch) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ayanyiolaenoch) 
