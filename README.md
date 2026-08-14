@@ -22,10 +22,6 @@
 Hi, I'm Enoch, a passionate software developer specializing in building scalable systems, high-performance execution bridges, and modern web applications. My expertise spans across Rust, TypeScript, and Full-Stack Web Technologies.
 
 <p align="center">
-    <a href="https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyusername&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyusername&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true" alt="Spotify" /></a>
-</p>
-
-<p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-enoch&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
 
