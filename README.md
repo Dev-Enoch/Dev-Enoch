@@ -21,9 +21,7 @@
 ## About Me
 Hi, I'm Enoch, a passionate software developer specializing in building scalable systems, high-performance execution bridges, and modern web applications. My expertise spans across Rust, TypeScript, and Full-Stack Web Technologies.
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-enoch&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
-</p>
+
 
 ---
 
@@ -93,15 +91,7 @@ Hi, I'm Enoch, a passionate software developer specializing in building scalable
 
 ---
 
-## Github Stats
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=dev-enoch&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-    <br/><br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-enoch&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</div>
-
-<br/>
 
 <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
