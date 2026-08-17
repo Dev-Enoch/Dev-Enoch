@@ -141,11 +141,3 @@ Hi, I'm Enoch, a passionate software developer specializing in building scalable
     </tr>
 </table>
 
----
-
-<div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=dev-enoch&column=6&row=1&theme=tokyonight&no-bg=true&no-frame=true" alt="Trophies" />
-    </a>
-</div>
-
