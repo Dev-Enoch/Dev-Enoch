@@ -18,10 +18,26 @@
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 Hi, I'm Enoch, a passionate software developer specializing in building scalable systems, high-performance execution bridges, and modern web applications. My expertise spans across Rust, TypeScript, and Full-Stack Web Technologies.
 
+### ⚡ Quick Status
+- 🔭 **Currently building:** Scalable Web3 & AI solutions
+- 🌱 **Currently deep-diving into:** Advanced Rust & Solana Smart Contracts
+- 🤝 **Looking to collaborate on:** Open-source Web3 protocols and full-stack AI dApps
+- 📫 **Reach me at:** [arhyelphilip024@gmail.com](mailto:arhyelphilip024@gmail.com)
 
+### 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=rust,ts,js,python,go,java,cpp,cs,html,css" alt="Languages" />
+  <br />
+  <br />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nodejs,express,postgres,mongodb,docker,git,github,vscode" alt="Tools" />
+</p>
+
+### 🏆 Hackathons & Experience
+- **Solana Ecosystem Builder:** Developed decentralized AI protocols and smart transaction stacks.
+- **Full-Stack Developer:** Architecting robust applications across Web2 and Web3 ecosystems.
 
 ---
 
