@@ -28,11 +28,10 @@ Hi, I'm Enoch, a passionate software developer specializing in building scalable
 ## 📊 GitHub Dashboard
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dev-enoch&show_icons=true&theme=tokyonight&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dev-enoch&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-enoch&layout=compact&theme=tokyonight&hide_border=true)
+  
+| 🌟 **Total Stars** | 📦 **Public Repos** | 👥 **Followers** | 💻 **Primary Tech Stack** |
+| :---: | :---: | :---: | :--- |
+| **20+** | **80** | **16** | `Rust` • `TypeScript` • `Go` • `Solana` • `Next.js` • `Python` |
 
 </div>
 
