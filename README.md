@@ -25,7 +25,19 @@ Hi, I'm Enoch, a passionate software developer specializing in building scalable
 
 ---
 
-## Project Spotlight
+## 📊 GitHub Dashboard
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dev-enoch&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-enoch&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-enoch&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+## 🚀 Project Spotlight
 
 <table width="100%" align="center">
     <tr>
@@ -38,12 +50,12 @@ Hi, I'm Enoch, a passionate software developer specializing in building scalable
             </p>
         </td>
         <td width="50%" valign="top">
-            <h3><a href="https://github.com/dev-enoch/xauusd_scalper">xauusd_scalper</a></h3>
-            <p>XAUUSD Pro Trend Trading Robot. High-performance execution bridge and strategy engine.</p>
+            <h3><a href="https://github.com/dev-enoch/iris-protocol">iris-protocol</a></h3>
+            <p>Decentralized AI protocol designed to assess portfolio risk, score wallets, and automatically protect digital assets.</p>
             <br>
             <p>
-                <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-                <img src="https://img.shields.io/github/stars/dev-enoch/xauusd_scalper?style=social" alt="Stars" />
+                <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+                <img src="https://img.shields.io/github/stars/dev-enoch/iris-protocol?style=social" alt="Stars" />
             </p>
         </td>
     </tr>
@@ -69,12 +81,12 @@ Hi, I'm Enoch, a passionate software developer specializing in building scalable
     </tr>
     <tr>
         <td width="50%" valign="top">
-            <h3><a href="https://github.com/dev-enoch/LessonHQ">LessonHQ</a></h3>
-            <p>A modern Learning Management System (LMS) built for educators, institutions, and online creators.</p>
+            <h3><a href="https://github.com/dev-enoch/xauusd_scalper">xauusd_scalper</a></h3>
+            <p>XAUUSD Pro Trend Trading Robot. High-performance execution bridge and strategy engine.</p>
             <br>
             <p>
-                <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-                <img src="https://img.shields.io/github/stars/dev-enoch/LessonHQ?style=social" alt="Stars" />
+                <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+                <img src="https://img.shields.io/github/stars/dev-enoch/xauusd_scalper?style=social" alt="Stars" />
             </p>
         </td>
         <td width="50%" valign="top">
@@ -87,11 +99,49 @@ Hi, I'm Enoch, a passionate software developer specializing in building scalable
             </p>
         </td>
     </tr>
+    <tr>
+        <td width="50%" valign="top">
+            <h3><a href="https://github.com/dev-enoch/LessonHQ">LessonHQ</a></h3>
+            <p>A modern Learning Management System (LMS) built for educators, institutions, and online creators.</p>
+            <br>
+            <p>
+                <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+                <img src="https://img.shields.io/github/stars/dev-enoch/LessonHQ?style=social" alt="Stars" />
+            </p>
+        </td>
+        <td width="50%" valign="top">
+            <h3><a href="https://github.com/dev-enoch/nextjs-ai-chatbot">nextjs-ai-chatbot</a></h3>
+            <p>Next.js based AI chatbot showcasing modern LLM integrations and sleek user interfaces.</p>
+            <br>
+            <p>
+                <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+                <img src="https://img.shields.io/github/stars/dev-enoch/nextjs-ai-chatbot?style=social" alt="Stars" />
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td width="50%" valign="top">
+            <h3><a href="https://github.com/dev-enoch/sendai-nextjs-starter">sendai-nextjs-starter</a></h3>
+            <p>A production-ready Next.js starter template for scalable applications.</p>
+            <br>
+            <p>
+                <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+                <img src="https://img.shields.io/github/stars/dev-enoch/sendai-nextjs-starter?style=social" alt="Stars" />
+            </p>
+        </td>
+        <td width="50%" valign="top">
+            <h3><a href="https://github.com/dev-enoch/Github-Activity-Tracker">Github-Activity-Tracker</a></h3>
+            <p>Track your GitHub activity across repositories and timelines.</p>
+            <br>
+            <p>
+                <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+                <img src="https://img.shields.io/github/stars/dev-enoch/Github-Activity-Tracker?style=social" alt="Stars" />
+            </p>
+        </td>
+    </tr>
 </table>
 
 ---
-
-
 
 <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -99,17 +149,3 @@ Hi, I'm Enoch, a passionate software developer specializing in building scalable
     </a>
 </div>
 
----
-
-## Achievements & Ranking
-
-- **Global Rank:** <a href="https://stardev.io/developers/dev-enoch"><img alt="Global Rank" src="https://stardev.io/developers/dev-enoch/badge/languages/global.svg" /></a>
-- **Country Rank:** <a href="https://stardev.io/developers/dev-enoch"><img alt="Country Rank" src="https://stardev.io/developers/dev-enoch/badge/languages/country.svg" /></a>
-
-<br/>
-
-<div align="center">
-    <a href="https://app.daily.dev/enochphilipdibal">
-        <img src="./devcard.png" width="356" alt="Enoch's Dev Card" />
-    </a>
-</div>
